@@ -1,1 +1,3 @@
-# postgres_pgadmin_docker_comp
+#  postgres
+#  pgadmin
+#  docker compose
